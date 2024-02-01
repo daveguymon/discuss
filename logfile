@@ -1,0 +1,8 @@
+2024-02-01 15:02:54.567 MST [87714] LOG:  starting PostgreSQL 14.10 (Homebrew) on aarch64-apple-darwin23.0.0, compiled by Apple clang version 15.0.0 (clang-1500.0.40.1), 64-bit
+2024-02-01 15:02:54.569 MST [87714] LOG:  listening on IPv6 address "::1", port 5432
+2024-02-01 15:02:54.569 MST [87714] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2024-02-01 15:02:54.571 MST [87714] LOG:  listening on Unix socket "/tmp/.s.PGSQL.5432"
+2024-02-01 15:02:54.577 MST [87715] LOG:  database system was shut down at 2024-02-01 15:02:38 MST
+2024-02-01 15:02:54.579 MST [87714] LOG:  database system is ready to accept connections
+2024-02-01 15:03:01.935 MST [87749] FATAL:  role "postgres" does not exist
+2024-02-01 15:03:01.951 MST [87750] FATAL:  role "postgres" does not exist
